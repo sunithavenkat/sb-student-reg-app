@@ -1,0 +1,10 @@
+server:
+  port: 2040
+  servlet:
+    context-path: /std
+spring:
+  mvc:
+    view:
+      prefix: /views/
+      suffix: .jsp
+      
